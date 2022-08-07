@@ -1,0 +1,4 @@
+mx/com/gm/domain/Persona.class
+test/HolaMundoHibernate.class
+mx/com/gm/dao/PersonaDAO.class
+test/OperacionesHibernateJPA.class
